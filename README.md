@@ -1,5 +1,5 @@
 # pegasus.paraphrase
-A paraphrasing tool which uses NLP to understand and curate new sentences(or paragraphs)
+A paraphrasing tool which uses Artificial Intelligence & NLP (Natural Language Processing) to understand and curate new sentences(or paragraphs)
 
 
 Start by using a notebook (jupyter or https://colab.research.google.com/). I have used https://colab.research.google.com/ here. 
